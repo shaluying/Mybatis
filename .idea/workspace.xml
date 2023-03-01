@@ -121,6 +121,7 @@
       <workItem from="1671518260080" duration="2929000" />
       <workItem from="1673588490808" duration="6641000" />
       <workItem from="1677661459863" duration="1013000" />
+      <workItem from="1677663470247" duration="157000" />
     </task>
     <servers />
   </component>
@@ -180,12 +181,43 @@
             </State>
           </value>
         </entry>
+        <entry key="3">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
       </map>
     </option>
     <option name="OPEN_TABS">
       <set>
         <option value="1" />
         <option value="2" />
+        <option value="3" />
       </set>
     </option>
   </component>
