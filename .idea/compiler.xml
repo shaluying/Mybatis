@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mybatis_006_antic" />
+        <module name="mybatis-014-annotation" />
+        <module name="mybatis_012_generator" />
+        <module name="mybatis_009_dynamic-sql" />
+        <module name="mybatis_004_web" />
+        <module name="mybatis_003_configuration" />
+        <module name="mybatis_002_crud" />
+        <module name="mybatis_010_advanced_mapping" />
+        <module name="mybatis_013_page" />
+        <module name="mybatis_001_introduction" />
+        <module name="mybatis_011_cache" />
+        <module name="mybatis_007_param" />
+        <module name="mybatis_005_crud2" />
+        <module name="mybatis_012_generator2" />
+        <module name="mybatis_008_select" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mybatis-014-annotation" target="1.8" />
+      <module name="mybatis_001_introduction" target="1.8" />
+      <module name="mybatis_002_crud" target="1.8" />
+      <module name="mybatis_003_configuration" target="1.8" />
+      <module name="mybatis_004_web" target="1.8" />
+      <module name="mybatis_005_crud2" target="1.8" />
+      <module name="mybatis_006_antic" target="1.8" />
+      <module name="mybatis_007_param" target="1.8" />
+      <module name="mybatis_008_select" target="1.8" />
+      <module name="mybatis_009_dynamic-sql" target="1.8" />
+      <module name="mybatis_010_advanced_mapping" target="1.8" />
+      <module name="mybatis_011_cache" target="1.8" />
+      <module name="mybatis_012_generator" target="1.8" />
+      <module name="mybatis_012_generator2" target="1.8" />
+      <module name="mybatis_013_page" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
